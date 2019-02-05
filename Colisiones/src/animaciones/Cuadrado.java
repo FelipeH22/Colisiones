@@ -1,12 +1,13 @@
 package animaciones;
 
+import static java.awt.Color.red;
 import java.awt.Graphics2D;
 import java.awt.Rectangle;
 
 public class Cuadrado
 {
-   private static final int WITH = 30;
-    private static final int HEIGHT = 60;
+   private static final int WITH = 70;
+    private static final int HEIGHT = 70;
     int x = 0;
     int y = 0;
     int xa = 1;

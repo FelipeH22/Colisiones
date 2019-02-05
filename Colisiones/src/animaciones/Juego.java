@@ -39,7 +39,7 @@ public class Juego extends JPanel
             JFrame frame = new JFrame("Colisiones");
             Juego game = new Juego();
             frame.add(game);
-            frame.setSize(300, 300);
+            frame.setSize(450, 450);
             frame.setVisible(true);
             frame.setLocationRelativeTo(null);
             frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
